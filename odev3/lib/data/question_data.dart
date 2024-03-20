@@ -16,7 +16,8 @@ const questions = [
         'Stateful Widget, durumu tutmayan bir widget türüdür.',
         'Stateless Widget, durumu güncelleyebilen bir widget türüdür.',
         'Stateful Widget, durumu tutabilen ve güncelleyebilen bir widget türüdür.',
-        'Stateless Widget, her render işlemi sırasında yeniden oluşturulur.'
+        'Stateless Widget, her render işlemi sırasında yeniden oluşturulur.',
+        '5. Seçenek'
       ],
       correctAns:
           'Stateful Widget, durumu tutabilen ve güncelleyebilen bir widget türüdür.'),
@@ -27,7 +28,9 @@ const questions = [
         'Birim Testleri (Unit Test)',
         'Entegrasyon Testleri (Integration Test)',
         'Widget Testleri',
-        'Tümü'
+        'Tümü',
+        '5. Seçenek',
+        '6. Seçenek'
       ],
       correctAns: 'Tümü'),
   Question(

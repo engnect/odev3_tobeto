@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:odev3/questions.dart';
+import 'package:odev3/screens/questions.dart';
 
 class Homepage extends StatelessWidget {
   const Homepage({super.key});
@@ -31,7 +31,7 @@ class Homepage extends StatelessWidget {
       body: Container(
         color: const Color.fromRGBO(250, 243, 250, 1),
         child: const Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.start,
           children: [QuestionScreen()],
         ),
       ),
